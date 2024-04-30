@@ -2,6 +2,8 @@
 
 Canvashare is a collaborative visual workspace designed for a variety of creative and professional applications, including drawing, diagramming, and conducting mock interviews. It leverages modern web technologies to provide real-time collaboration capabilities, making it an ideal platform for teams and individuals looking to engage in creative activities online.
 
+![Screenshot 2024-04-30 at 3 59 25 PM](https://github.com/TheAllen/Canvashare/assets/12507966/de2fb083-65c9-4a25-b91c-b514329d4bfa)
+
 ## Features
 
 Canvashare offers a range of tools and features to enhance your collaborative experience:

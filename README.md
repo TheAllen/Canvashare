@@ -44,8 +44,14 @@ To get started with Canvashare, clone the repository and follow these steps:
 # Install dependencies
 npm install
 
+# Start Client
+cd canvashare-client
+
 # Run the development server for frontend
 npm run dev
+
+# Start Server
+cd canvashare-server
 
 # To start the Rust backend server
 cargo run
